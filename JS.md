@@ -10,3 +10,8 @@
 #### Sort & Filter
 
 * [isotope](https://github.com/metafizzy/isotope) Filter & sort magical layouts
+ 
+#### Lasy Load
+
+* [layzr](https://github.com/callmecavs/layzr.js) A small, fast, modern, and dependency-free library for lazy loading.
+
