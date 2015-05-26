@@ -37,3 +37,6 @@
 
 * [Searcher](https://github.com/stanislav-web/Searcher) Database searcher for Phalcon Framework. This is the search service is designed to search multiple SQL tables. Convenient to use autocomplete, search documents, search the whole site. 
 [reds](http://reds.com)
+
+### Large Scale
+[phalcon-boilerplate](https://github.com/mikegioia/phalcon-boilerplate)Phalcon Boilerplate is a template for building large-scale PhalconPHP applications. It contains the structure and configuration for managing a big project.
